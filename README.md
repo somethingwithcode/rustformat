@@ -1,9 +1,6 @@
 # rustformat
-A simple rustfmt config file for a clean and readable formatting.
+A simple rustfmt config file for a clean and readable formatting in the Allman style
 
-## what does it change?
-
-Creates a new line for brackets and indents the content.
 
 ## How to use
 
